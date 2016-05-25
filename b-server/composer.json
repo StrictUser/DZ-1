@@ -1,0 +1,17 @@
+{
+  "name": "home-exercise-4",
+  "license": "MIT",
+  "type": "project",
+  "description": "Work with built-in php-server",
+  "autoload": {
+    "psr-4": { "": "app/" }
+  },
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "config": {
+    "platform": {
+      "php": "5.5.9"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "home-exercise-2",
+  "license": "MIT",
+  "type": "project",
+  "description": "The Random Quote exercise",
+  "autoload": {
+    "psr-4": { "": "src/" }
+  },
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "config": {
+    "platform": {
+      "php": "5.5.9"
+    }
+  }
+}
